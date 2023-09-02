@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/Abongile184/landing-page/main/images/the-Odin-logo.png"  />  
 
 ###
 
